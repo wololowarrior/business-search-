@@ -1,0 +1,51 @@
+#main {
+    background: #FFF;
+    width: 100%;
+    height: auto;
+}
+
+#sidebar {
+    float: left;
+    width: 150px;
+    min-height: 100%;
+    height: auto;
+    background: #d8dcff;
+    box-shadow: 0px 0px 5px 0px #7e8074;
+}
+
+#mbody {
+
+    float: left;
+    width: 500px;
+    height: 100%;
+
+}
+
+.off {
+    cursor: pointer;
+    padding: 20px;
+    border-radius: 3px;
+    box-shadow: 0px 0px 5px 1px #ffe6f0;
+    font-family: "Raleway", sans-serif;
+    font-size: 30px;
+    background-color: #fff29f;
+    margin: 30px;
+    width: 500px;
+    height: 150px;
+    transition: all 0.3s ease-in-out;
+
+}
+
+.off:hover {
+    box-shadow: 0px 20px 30px 3px #bfbfc3;
+}
+
+table {
+    font-size: 20px;
+}
+.oname{
+    font-weight: bold;
+}
+td{
+    text-align: justify;
+}
